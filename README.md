@@ -1,4 +1,4 @@
-# Classroom-Attentiveness-Monitoring-System
+#AI-Based Classroom Engagment Analytics System
 
 EduGauge is a real-time computer vision system that detects student attentiveness and drowsiness using facial landmarks, deep learning, and rule-based analytics.
 The project demonstrates end-to-end ML application development, from model integration to a browser-based frontend.
